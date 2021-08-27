@@ -1,0 +1,38 @@
+{
+  "root": {
+    "label": "root",
+    "children": [
+      {
+        "6724ed3f-3367-4e72-976f-3b9ad975557a": {
+          "label": "ant",
+          "children": []
+        }
+      },
+      {
+        "48e25d2b-26a4-4d35-8444-1bc81ba45b2e": {
+          "label": "bear",
+          "children": [
+            {
+              "d650e41f-58cc-4616-9a48-3cbe7f62a43a": {
+                "label": "cat",
+                "children": []
+              }
+            },
+            {
+              "7768a39a-0008-42a3-8306-e85f0b684823": {
+                "label": "dog",
+                "children": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "0dc9311f-63a8-4ef4-a717-2515c53a8f34": {
+          "label": "frog",
+          "children": []
+        }
+      }
+    ]
+  }
+}
